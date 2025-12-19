@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Objects>
+  <Object id="Nano Test Dummy Item" type="0x5633">
+    <Class>Equipment</Class>
+    <Item />
+    <Texture>
+      <File>lofiChar8x8</File>
+      <Index>0x9B</Index>
+    </Texture>
+    <Description>A dummy item to ensure builds work correctly.</Description>
+    <SlotType>10</SlotType>
+    <DropTradable />
+  </Object>
+</Objects>
